@@ -27,7 +27,7 @@
     </div>
 	 
  <div>
-<img src="images/collage.jpg" alt="">
+<img src="user-images.githubusercontent.com/104372152/165375935-f649ea03-f705-45bb-bcf9-403bf65d782f.JPEG" alt="">
 </div>
 
 
