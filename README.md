@@ -26,7 +26,7 @@
     <div>
       <p class="T2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fermentum dapibus egestas. Ut ultrices laoreet neque vitae sodales. Donec faucibus odio vulputate quam sodales condimentum. Ut suscipit nec felis eu imperdiet. Nam vestibulum, mi non pellentesque fringilla, leo ligula mattis mi, in aliquam orci orci in metus. Morbi ullamcorper dui id faucibus gravida. Duis bibendum ultrices leo, vitae maximus sem lacinia ac. Donec iaculis eget mi non porttitor. Praesent leo erat, fermentum nec diam sed, dignissim aliquet elit. Sed in viverra risus. Proin consequat libero sem, nec luctus purus maximus imperdiet. Curabitur mattis fringilla sem. Aenean convallis pretium risus, et imperdiet enim ullamcorper vitae. In rhoncus accumsan iaculis.</p>
     </div>
-	<div>![sbsq](images/sbsq.jpg)</div>	
+	<div>![sbsq](images/Create-images/sbsq.jpg)</div>	
  </div>
 </body>
 </html>
